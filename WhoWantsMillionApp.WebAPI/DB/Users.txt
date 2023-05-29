@@ -1,0 +1,14 @@
+[
+  {
+    "ID": "04242489-093b-4195-b875-c4a871463d86",
+    "UserName": "sandro",
+    "Password": "sandro123",
+    "UserBalance": 100
+  },
+  {
+    "ID": "d792aa6f-770f-402d-8dc8-e65e4e6e631f",
+    "UserName": "evropabeti",
+    "Password": "evropabeti123",
+    "UserBalance": 150
+  }
+]

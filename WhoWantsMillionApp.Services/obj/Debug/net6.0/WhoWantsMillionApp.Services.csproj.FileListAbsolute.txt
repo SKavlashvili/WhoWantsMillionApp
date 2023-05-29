@@ -1,0 +1,12 @@
+C:\Users\skavlashvili\Desktop\WhoWantsMillionApp\WhoWantsMillionApp.Services\bin\Debug\net6.0\WhoWantsMillionApp.Services.deps.json
+C:\Users\skavlashvili\Desktop\WhoWantsMillionApp\WhoWantsMillionApp.Services\bin\Debug\net6.0\WhoWantsMillionApp.Services.dll
+C:\Users\skavlashvili\Desktop\WhoWantsMillionApp\WhoWantsMillionApp.Services\bin\Debug\net6.0\WhoWantsMillionApp.Services.pdb
+C:\Users\skavlashvili\Desktop\WhoWantsMillionApp\WhoWantsMillionApp.Services\obj\Debug\net6.0\WhoWantsMillionApp.Services.csproj.AssemblyReference.cache
+C:\Users\skavlashvili\Desktop\WhoWantsMillionApp\WhoWantsMillionApp.Services\obj\Debug\net6.0\WhoWantsMillionApp.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skavlashvili\Desktop\WhoWantsMillionApp\WhoWantsMillionApp.Services\obj\Debug\net6.0\WhoWantsMillionApp.Services.AssemblyInfoInputs.cache
+C:\Users\skavlashvili\Desktop\WhoWantsMillionApp\WhoWantsMillionApp.Services\obj\Debug\net6.0\WhoWantsMillionApp.Services.AssemblyInfo.cs
+C:\Users\skavlashvili\Desktop\WhoWantsMillionApp\WhoWantsMillionApp.Services\obj\Debug\net6.0\WhoWantsMillionApp.Services.csproj.CoreCompileInputs.cache
+C:\Users\skavlashvili\Desktop\WhoWantsMillionApp\WhoWantsMillionApp.Services\obj\Debug\net6.0\WhoWantsMillionApp.Services.dll
+C:\Users\skavlashvili\Desktop\WhoWantsMillionApp\WhoWantsMillionApp.Services\obj\Debug\net6.0\refint\WhoWantsMillionApp.Services.dll
+C:\Users\skavlashvili\Desktop\WhoWantsMillionApp\WhoWantsMillionApp.Services\obj\Debug\net6.0\WhoWantsMillionApp.Services.pdb
+C:\Users\skavlashvili\Desktop\WhoWantsMillionApp\WhoWantsMillionApp.Services\obj\Debug\net6.0\ref\WhoWantsMillionApp.Services.dll
